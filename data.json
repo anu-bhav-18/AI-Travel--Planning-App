@@ -1,0 +1,569 @@
+{
+    "pagination": {
+        "limit": 10,
+        "offset": 0,
+        "count": 10,
+        "total": 403006
+    },
+    "data": [
+        {
+            "flight_date": "2026-06-20",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Hamilton Island",
+                "timezone": "Australia/Lindeman",
+                "iata": "HTI",
+                "icao": "YBHM",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-06-20T09:45:00+00:00",
+                "estimated": "2026-06-20T09:45:00+00:00",
+                "actual": "2026-06-19T10:06:00+00:00",
+                "estimated_runway": "2026-06-19T10:06:00+00:00",
+                "actual_runway": "2026-06-19T10:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Maroochydore",
+                "timezone": "Australia/Brisbane",
+                "iata": "MCY",
+                "icao": "YBSU",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-06-19T11:14:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "empty",
+                "iata": null,
+                "icao": null
+            },
+            "flight": {
+                "number": null,
+                "iata": null,
+                "icao": null,
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "7C4D28"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-20",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Gold Coast (coolangatta)",
+                "timezone": "Australia/Brisbane",
+                "iata": "OOL",
+                "icao": "YBCG",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-06-20T07:45:00+00:00",
+                "estimated": "2026-06-20T07:45:00+00:00",
+                "actual": "2026-06-19T08:14:00+00:00",
+                "estimated_runway": "2026-06-19T08:14:00+00:00",
+                "actual_runway": "2026-06-19T08:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gold Coast (coolangatta)",
+                "timezone": "Australia/Brisbane",
+                "iata": "OOL",
+                "icao": "YBCG",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-06-19T09:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-06-19T09:20:00+00:00",
+                "actual": "2026-06-19T09:20:00+00:00",
+                "estimated_runway": "2026-06-19T09:20:00+00:00",
+                "actual_runway": "2026-06-19T09:20:00+00:00"
+            },
+            "airline": {
+                "name": "empty",
+                "iata": null,
+                "icao": null
+            },
+            "flight": {
+                "number": null,
+                "iata": null,
+                "icao": null,
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "7C05D2"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Henri Coanda International",
+                "timezone": "Europe/Bucharest",
+                "iata": "OTP",
+                "icao": "LROP",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-06-19T08:30:00+00:00",
+                "estimated": "2026-06-19T08:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Henri Coanda International",
+                "timezone": "Europe/Bucharest",
+                "iata": "OTP",
+                "icao": "LROP",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-06-19T09:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Romania - Air Force",
+                "iata": null,
+                "icao": "ROF"
+            },
+            "flight": {
+                "number": "9142",
+                "iata": null,
+                "icao": "ROF9142",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "4A34E8"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Orly",
+                "timezone": "Europe/Paris",
+                "iata": "ORY",
+                "icao": "LFPO",
+                "terminal": "3",
+                "gate": "E10",
+                "delay": null,
+                "scheduled": "2026-06-19T10:55:00+00:00",
+                "estimated": "2026-06-19T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "N615",
+                "scheduled": "2026-06-19T12:55:00+00:00",
+                "delay": 12,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "6938",
+                "iata": "AM6938",
+                "icao": "AMX6938",
+                "codeshared": {
+                    "airline_name": "air europa",
+                    "airline_iata": "ux",
+                    "airline_icao": "aea",
+                    "flight_number": "1028",
+                    "flight_iata": "ux1028",
+                    "flight_icao": "aea1028"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "348609"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Orly",
+                "timezone": "Europe/Paris",
+                "iata": "ORY",
+                "icao": "LFPO",
+                "terminal": "3",
+                "gate": "E10",
+                "delay": null,
+                "scheduled": "2026-06-19T10:55:00+00:00",
+                "estimated": "2026-06-19T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "N615",
+                "scheduled": "2026-06-19T12:55:00+00:00",
+                "delay": 12,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "7864",
+                "iata": "AD7864",
+                "icao": "AZU7864",
+                "codeshared": {
+                    "airline_name": "air europa",
+                    "airline_iata": "ux",
+                    "airline_icao": "aea",
+                    "flight_number": "1028",
+                    "flight_iata": "ux1028",
+                    "flight_icao": "aea1028"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "348609"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Orly",
+                "timezone": "Europe/Paris",
+                "iata": "ORY",
+                "icao": "LFPO",
+                "terminal": "4",
+                "gate": "F25",
+                "delay": null,
+                "scheduled": "2026-06-19T10:50:00+00:00",
+                "estimated": "2026-06-19T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Le Raizet",
+                "timezone": "America/Guadeloupe",
+                "iata": "PTP",
+                "icao": "TFFR",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-06-19T13:35:00+00:00",
+                "delay": 19,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Caribbean Airlines",
+                "iata": "BW",
+                "icao": "BWA"
+            },
+            "flight": {
+                "number": "4004",
+                "iata": "BW4004",
+                "icao": "BWA4004",
+                "codeshared": {
+                    "airline_name": "air caraibes",
+                    "airline_iata": "tx",
+                    "airline_icao": "fwi",
+                    "flight_number": "540",
+                    "flight_iata": "tx540",
+                    "flight_icao": "fwi540"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "39CDCE"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Seattle-Tacoma International",
+                "timezone": "America/Los_Angeles",
+                "iata": "SEA",
+                "icao": "KSEA",
+                "terminal": null,
+                "gate": "N15",
+                "delay": null,
+                "scheduled": "2026-06-19T00:17:00+00:00",
+                "estimated": "2026-06-19T00:17:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Chicago O'hare International",
+                "timezone": "America/Chicago",
+                "iata": "ORD",
+                "icao": "KORD",
+                "terminal": "3",
+                "gate": "G11",
+                "baggage": "23T2",
+                "scheduled": "2026-06-19T06:20:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Qatar Airways",
+                "iata": "QR",
+                "icao": "QTR"
+            },
+            "flight": {
+                "number": "8887",
+                "iata": "QR8887",
+                "icao": "QTR8887",
+                "codeshared": {
+                    "airline_name": "alaska airlines",
+                    "airline_iata": "as",
+                    "airline_icao": "asa",
+                    "flight_number": "328",
+                    "flight_iata": "as328",
+                    "flight_icao": "asa328"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "ACF846"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Chicago O'hare International",
+                "timezone": "America/Chicago",
+                "iata": "ORD",
+                "icao": "KORD",
+                "terminal": "3",
+                "gate": "K12",
+                "delay": null,
+                "scheduled": "2026-06-19T06:48:00+00:00",
+                "estimated": "2026-06-19T06:48:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Southwest Florida International",
+                "timezone": "America/New_York",
+                "iata": "RSW",
+                "icao": "KRSW",
+                "terminal": null,
+                "gate": "D5",
+                "baggage": null,
+                "scheduled": "2026-06-19T10:41:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "AlphaSky",
+                "iata": "AS",
+                "icao": "JAG"
+            },
+            "flight": {
+                "number": "4164",
+                "iata": "AS4164",
+                "icao": "JAG4164",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "2433",
+                    "flight_iata": "aa2433",
+                    "flight_icao": "aal2433"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD0D35"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Chicago O'hare International",
+                "timezone": "America/Chicago",
+                "iata": "ORD",
+                "icao": "KORD",
+                "terminal": "3",
+                "gate": "G5",
+                "delay": null,
+                "scheduled": "2026-06-19T06:46:00+00:00",
+                "estimated": "2026-06-19T06:46:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Kansas City International Airport",
+                "timezone": "America/Chicago",
+                "iata": "MCI",
+                "icao": "KMCI",
+                "terminal": null,
+                "gate": "A2",
+                "baggage": "3",
+                "scheduled": "2026-06-19T08:35:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "7232",
+                "iata": "EI7232",
+                "icao": "EIN7232",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "6250",
+                    "flight_iata": "aa6250",
+                    "flight_icao": "aal6250"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A97797"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-06-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Chicago O'hare International",
+                "timezone": "America/Chicago",
+                "iata": "ORD",
+                "icao": "KORD",
+                "terminal": "3",
+                "gate": "G5",
+                "delay": null,
+                "scheduled": "2026-06-19T06:46:00+00:00",
+                "estimated": "2026-06-19T06:46:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Kansas City International Airport",
+                "timezone": "America/Chicago",
+                "iata": "MCI",
+                "icao": "KMCI",
+                "terminal": null,
+                "gate": "A2",
+                "baggage": "3",
+                "scheduled": "2026-06-19T08:35:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4909",
+                "iata": "BA4909",
+                "icao": "BAW4909",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "6250",
+                    "flight_iata": "aa6250",
+                    "flight_icao": "aal6250"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A97797"
+            },
+            "live": null
+        }
+    ]
+}
